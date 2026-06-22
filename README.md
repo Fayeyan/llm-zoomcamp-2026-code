@@ -1,2 +1,3 @@
 # llm-zoomcamp-2026-code
-Introduction to RAG.
+
+1. Introduction to RAG.
