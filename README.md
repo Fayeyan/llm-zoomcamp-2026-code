@@ -3,3 +3,4 @@
 1. Introduction to RAG.
 2. Vector-search.
 3. Orchestration.
+4. Evaluation.
